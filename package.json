@@ -1,0 +1,28 @@
+{
+  "name": "react-native-text-measure",
+  "version": "1.0.0",
+  "description": "Accurately measure text dimensions (width, height, lineCount) using native text layout engines — no view rendered.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AminAllahham/react-native-text-measure.git"
+  },
+  "keywords": [
+    "react-native",
+    "text",
+    "measure",
+    "height",
+    "width",
+    "layout",
+    "native-module"
+  ],
+  "author": "Amin Allahham <",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "react-native": "^0.73.0"
+  }
+}
