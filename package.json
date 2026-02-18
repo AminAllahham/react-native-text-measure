@@ -1,6 +1,6 @@
 {
   "name": "react-native-text-measure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Accurately measure text dimensions (width, height, lineCount) using native text layout engines — no view rendered.",
   "main": "index.js",
   "types": "index.d.ts",
